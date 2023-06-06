@@ -1,2 +1,0 @@
-# BSOC1
-BSOC
